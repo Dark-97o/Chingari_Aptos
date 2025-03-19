@@ -37,5 +37,8 @@ print(f"Optimized Reward: {reward}")
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
+## Authors
+- Subhranil Baul
+
 ## License
 This project is licensed under the MIT License.
